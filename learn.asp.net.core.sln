@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.asp.net.core.auth.api", "learn.asp.net.core.auth.api\learn.asp.net.core.auth.api.csproj", "{225CD94A-1C7E-4E46-BFCE-16F64DF36D2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "learn.asp.net.core.client.api", "learn.asp.net.core.client.api\learn.asp.net.core.client.api.csproj", "{07A24005-A63E-4157-8A1E-D09D93EB9E06}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{225CD94A-1C7E-4E46-BFCE-16F64DF36D2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225CD94A-1C7E-4E46-BFCE-16F64DF36D2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225CD94A-1C7E-4E46-BFCE-16F64DF36D2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225CD94A-1C7E-4E46-BFCE-16F64DF36D2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07A24005-A63E-4157-8A1E-D09D93EB9E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07A24005-A63E-4157-8A1E-D09D93EB9E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07A24005-A63E-4157-8A1E-D09D93EB9E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07A24005-A63E-4157-8A1E-D09D93EB9E06}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A82ABBC6-9631-4E7B-BF57-8E94247B2845}
+	EndGlobalSection
+EndGlobal
